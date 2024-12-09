@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What do the children do in the sunshine?",
+    "options": [
+      "Sleep",
+      "Laugh and play",
+      "Study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What lights up the night sky according to the poem?",
+    "options": [
+      "Starlight",
+      "The sun",
+      "Clouds"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What do the children leave behind in the sand?",
+    "options": [
+      "Toys",
+      "Footprints",
+      "Food"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Look at the image and choose the correct word:<br><img width='60%'src='6.png'>",
+    "options": [
+      "Flour",
+      "Floor",
+      "Flower"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Look at the image and choose the correct sentence:<br><img width='75%'src='7.png'>",
+    "options": [
+      "Jimmy’s mother is playing with him.",
+      "Jimmy’s mother is planting water on the flowers.",
+      "Jimmy’s mother is playing with him."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which two words make up the compound word playground?",
+    "options": [
+      "Play + Ground",
+      "Play + Round",
+      "Play + Gown"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which word means the light from the moon?",
+    "options": [
+      "Moonlight",
+      "Moonwalk",
+      "Moonshine"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word describes the time when it is dark outside?",
+    "options": [
+      "Daytime",
+      "Nighttime",
+      "Playtime"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which of the following is a compound word?",
+    "options": [
+      "Sun",
+      "Sunshine",
+      "Shine"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which of these is a compound word?",
+    "options": [
+      "House",
+      "Beach",
+      "Nighttime"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Fill in the compound word: <br><img width='90%'src='1.png'> ",
+    "options": [
+      "Playground",
+      "Toothbrush",
+      "Bluebrush"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Fill in the compound word: <br><img width='90%'src='2.png'>",
+    "options": [
+      "Nighttime",
+      "Redshine",
+      "Sunshine"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Fill in the compound word: <br><img width='90%'src='3.png'>",
+    "options": [
+      "Printer",
+      "Footprint",
+      "Handprint"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Fill in the compound word: <br><img width='90%'src='4.png'>",
+    "options": [
+      "Friendship",
+      "Blueship",
+      "Shipment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Fill in the compound word:<br><img width='90%'src='5.png'>",
+    "options": [
+      "Drumstick",
+      "Joystick",
+      "Nonstick"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct word:<br> Butter + ______ = Butterfly",
+    "options": [
+      "Fly",
+      "Lay",
+      "Sky"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the correct word:<br> Moon + ______ = Moonlight",
+    "options": [
+      "Light",
+      "Bright",
+      "Night"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Choose the correct word:<br> Friend + ______ = Friendship",
+    "options": [
+      "Shipmate",
+      "Drop",
+      "Ship"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the correct word:<br> Day + ______ = Daytime",
+    "options": [
+      "Shine",
+      "Time",
+      "Bright"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct word:<br> Rain + ______ = Rainbow",
+    "options": [
+      "Bow",
+      "Band",
+      "Boat"
+    ],
+    "correct": 0
+  }
+]
